@@ -2,7 +2,7 @@
 
 A modern website project for a car showroom.
 
-## 📸 Project Screenshots
+## 📸 Project Screenshot
 
 ### Homepage
 ![Homepage](images/home.png)
